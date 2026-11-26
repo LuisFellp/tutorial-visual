@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" font-family="Segoe UI, Arial, sans-serif" role="img" aria-label="Passo 4: enviar para o GitHub">
+<rect x="1" y="1" width="798" height="418" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+<path d="M1 13a12 12 0 0 1 12-12h774a12 12 0 0 1 12 12v35H1z" fill="#24292f"/>
+<circle cx="24" cy="25" r="6" fill="#ff5f56"/><circle cx="44" cy="25" r="6" fill="#ffbd2e"/><circle cx="64" cy="25" r="6" fill="#27c93f"/>
+<text x="400" y="30" fill="#ffffff" font-size="15" text-anchor="middle">Passo 4: enviar para o GitHub</text>
+<rect x="40" y="85" width="720" height="295" rx="8" fill="#0d1117"/>
+<g font-family="Consolas, monospace" font-size="18" fill="#e6edf3">
+<text x="65" y="130"><tspan fill="#3fb950">$</tspan> git add README.md imagens/</text>
+<text x="65" y="180"><tspan fill="#3fb950">$</tspan> git commit -m "Adiciona meu tutorial"</text>
+<text x="65" y="230"><tspan fill="#3fb950">$</tspan> git push</text>
+<g fill="#8b949e" font-size="16">
+<text x="65" y="290"># add: escolhe o que será salvo</text>
+<text x="65" y="320"># commit: registra uma versão</text>
+<text x="65" y="350"># push: envia para o GitHub</text>
+</g>
+</g>
+</svg>

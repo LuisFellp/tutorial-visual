@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" font-family="Segoe UI, Arial, sans-serif" role="img" aria-label="Passo 2: organizar os arquivos">
+<rect x="1" y="1" width="798" height="418" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+<path d="M1 13a12 12 0 0 1 12-12h774a12 12 0 0 1 12 12v35H1z" fill="#24292f"/>
+<circle cx="24" cy="25" r="6" fill="#ff5f56"/><circle cx="44" cy="25" r="6" fill="#ffbd2e"/><circle cx="64" cy="25" r="6" fill="#27c93f"/>
+<text x="400" y="30" fill="#ffffff" font-size="15" text-anchor="middle">Passo 2: organizar os arquivos</text>
+<rect x="60" y="85" width="680" height="290" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+<g font-family="Consolas, monospace" font-size="18" fill="#1f2328" style="white-space:pre">
+<text x="90" y="130" font-weight="700">meu-tutorial/</text>
+<text x="90" y="170">├── README.md</text>
+<text x="90" y="210">└── imagens/</text>
+<text x="130" y="250">├── 01-inicio.png</text>
+<text x="130" y="290">├── 02-meio.png</text>
+<text x="130" y="330">└── 03-fim.png</text>
+</g>
+<g fill="#0969da" font-size="16">
+<text x="410" y="170">← o texto do tutorial</text>
+<text x="410" y="210">← todas as figuras aqui</text>
+<text x="410" y="290">← numeradas na ordem de uso</text>
+</g>
+</svg>

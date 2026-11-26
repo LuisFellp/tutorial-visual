@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220" font-family="Segoe UI, Arial, sans-serif" role="img" aria-label="Fluxo: criar, escrever, ilustrar e publicar">
+<rect width="800" height="220" rx="12" fill="#24292f"/>
+<text x="400" y="55" fill="#fff" font-size="28" font-weight="700" text-anchor="middle">Tutorial visual no GitHub</text>
+<g fill="#0969da"><rect x="40" y="100" width="150" height="70" rx="10"/><rect x="230" y="100" width="150" height="70" rx="10"/><rect x="420" y="100" width="150" height="70" rx="10"/></g>
+<rect x="610" y="100" width="150" height="70" rx="10" fill="#1f883d"/>
+<g fill="#fff" font-size="20" font-weight="600" text-anchor="middle"><text x="115" y="142">Criar</text><text x="305" y="142">Escrever</text><text x="495" y="142">Ilustrar</text><text x="685" y="142">Publicar</text></g>
+<path d="M200 135h20m-7-7l7 7-7 7M390 135h20m-7-7l7 7-7 7M580 135h20m-7-7l7 7-7 7" stroke="#fff" stroke-width="3" fill="none"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" font-family="Segoe UI, Arial, sans-serif" role="img" aria-label="Passo 5: tutorial publicado">
+<rect x="1" y="1" width="798" height="418" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+<path d="M1 13a12 12 0 0 1 12-12h774a12 12 0 0 1 12 12v35H1z" fill="#24292f"/>
+<circle cx="24" cy="25" r="6" fill="#ff5f56"/><circle cx="44" cy="25" r="6" fill="#ffbd2e"/><circle cx="64" cy="25" r="6" fill="#27c93f"/>
+<text x="400" y="30" fill="#ffffff" font-size="15" text-anchor="middle">Passo 5: tutorial publicado</text>
+<g font-size="16" fill="#1f2328">
+<rect x="60" y="75" width="680" height="320" rx="8" fill="#fff" stroke="#d0d7de"/>
+<text x="80" y="102" font-weight="600">README.md</text><line x1="60" y1="115" x2="740" y2="115" stroke="#d0d7de"/>
+<text x="85" y="155" font-size="26" font-weight="700">Meu tutorial</text>
+<text x="85" y="185">Siga os passos abaixo, um de cada vez.</text>
+<g stroke="#54aeff" fill="#ddf4ff"><rect x="85" y="210" width="195" height="120" rx="6"/><rect x="302" y="210" width="195" height="120" rx="6"/><rect x="519" y="210" width="195" height="120" rx="6"/></g>
+<g fill="#0969da" font-size="44" font-weight="700" text-anchor="middle"><text x="182" y="286">1</text><text x="399" y="286">2</text><text x="616" y="286">3</text></g>
+<g text-anchor="middle"><text x="182" y="360">Início</text><text x="399" y="360">Meio</text><text x="616" y="360">Fim</text></g>
+</g>
+</svg>
